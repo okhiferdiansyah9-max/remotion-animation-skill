@@ -164,3 +164,25 @@ Use this reference to guide:
 Always consult the relevant reference before creating the animation.
 
 Do not ignore the reference files when they are relevant to the user's request.
+# REFERENCE FILE INSTRUCTIONS
+
+When creating 2D animated videos, you MUST read and follow:
+
+references/character-2d.md
+
+This reference file defines:
+- 2D character design
+- Character consistency
+- Facial expressions
+- Body movements
+- Character animation
+- Motion graphics
+- Scene composition
+- Visual storytelling
+
+Always maintain consistent character appearance,
+smooth animation, expressive movements,
+and professional visual quality.
+
+Use this reference as the primary guide
+for all 2D character animation projects.
